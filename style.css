@@ -1,0 +1,16 @@
+*{
+    background-color: aqua;
+}
+.btn-group {
+    background-color: lightgreen;
+}
+.icons {
+    display: flex;
+    gap: 20%;
+    text-align: center;
+    padding: 35px;
+}
+.icon-text {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 600;
+}
